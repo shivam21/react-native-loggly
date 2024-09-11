@@ -1,0 +1,8 @@
+# NPM
+.npmrc
+
+# Build artifacts
+build/
+dist/
+distWatch/
+*.tgz
