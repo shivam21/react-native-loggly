@@ -1,9 +1,9 @@
 name: Publish package
 
 on:
-  pull_request:
+  push:
     branches:
-      - "*"
+      - master
 
 jobs:
   publish-gpr:

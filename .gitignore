@@ -6,3 +6,5 @@ build/
 dist/
 distWatch/
 *.tgz
+
+node_modules/

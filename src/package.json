@@ -1,5 +1,5 @@
 {
-  "name": "@shivam21/react-native-loggly",
+  "name": "@dehaat/react-native-loggly",
   "version": "1.0.0",
   "description": "React Native logger to push log to loggly v2",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shivam21/react-native-loggly.git"
+    "url": "git+https://github.com/dehaat/react-native-loggly.git"
   },
   "keywords": [
     "react-native",
     "loggly"
   ],
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@shivam21"
+    "registry": "https://npm.pkg.github.com/@dehaat"
   },
   "author": "Shubham Arora <shubhamaroraa@gmail.com>",
   "license": "MIT",
